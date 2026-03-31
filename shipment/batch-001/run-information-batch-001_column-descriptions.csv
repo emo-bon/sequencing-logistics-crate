@@ -41,7 +41,7 @@ no_cycl_R1,Number of useful cycles R1,Number of effective/usable sequencing cycl
 lane,Lane number,Lane number on the flowcell where the sample was sequenced,value,1,Sequencing,Genoscope; EMBRC,Optional (O),,
 tag,Tag (Index),Tag (Index) used to identify the sample during demultiplexing,text,UDI235,Sequencing; Post-sequencing,Genoscope; EMBRC,Optional (O),,
 dna_quant_lib,DNA quantity used in library prep,Amount of DNA used for sequencing library preparation in nanograms (ng) ,"value, quantity in nanograms (ng)",85,Sequencing,Genoscope; EMBRC,Optional (O),,
-run_date,Run date,Date when the sequencing run was performed,date [YYYY-MM-DD],2022-02-23,Sequencing,Genoscope; EMBRC,Optional (O),,
+run_date,Run date,Date when the sequencing run was performed,date [YYYY-MM-DD],2022-03-22,Sequencing,Genoscope; EMBRC,Optional (O),,
 hom_percentage,% Homo sapiens + Homininae + Hominidae + Hominoidea (Read 1),Percentage of reads (Read 1) classified as human (Homo sapiens) or close human relatives (primates in the Homininae/Hominidae/Hominoidea groups),value,0.01,Sequencing; Post-sequencing,Genoscope; EMBRC,Optional (O),,
 QC_valid,QC valid,Indicates whether the sample passed the post-sequencing quality control (QC) checks,Y or N,Y,Sequencing; Post-sequencing,Genoscope; EMBRC,Optional (O),,
 QC_summary,QC summary,The quality control (QC) summary from sequencing centre. This is a direct copy from the sequencing centre report. Therefore it may be in French,text,Adaptateurs/Kmers,Sequencing; Post-sequencing,Genoscope; EMBRC,Optional (O),,
