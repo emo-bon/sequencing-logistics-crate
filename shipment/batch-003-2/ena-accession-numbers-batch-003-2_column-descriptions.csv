@@ -1,0 +1,11 @@
+Metadata_term,Term_definition
+old_source_mat_id,"Material sample ID that was used up to 2024, but has since been superceded by source_mat_id (see source_mat_id)"
+ref_code,Sequence reference code agreed  between Genoscope and EMO BON; the sequence IDs used for the data stored at Genoscope  
+ref_code_seq,Genoscope-internal coding IDs related to how they create their sample ids
+ena_accession_number_sample,ENA sample accession number
+ena_accession_number_experiment_metag,ENA experiment accession number for metagenomics sequences
+ena_accession_number_run_metag,ENA run accession number for metagenomics sequences
+ena_accession_number_project,ENA project accession number
+ena_accession_number_umbrella,ENA umbrella assession number (i.e. all of EMO BON)
+biosamples_accession_number,BioSamples accession number
+source_mat_id,Material sample ID now used: created at end 2024 but also applied to all samples retrospectively  
