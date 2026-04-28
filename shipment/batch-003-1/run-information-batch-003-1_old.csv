@@ -1,20 +1,20 @@
 source_material_id,source_material_id_orig,ref_code_seq,ref_code,nucl_acid_ext,nucl_acid_amp,lib_reads_seqd,lib_layout,target_gene,target_subfragment,ampl_size,pcr_primers,mid,adapters,pcr_cond,seq_quality_check,seq_meth,dna_conc,dna_conc_method,dna_quantity_after_extraction,analysis,run,reads_name,mock_pr,mock_eu,source_mat_id_an,url_seq,sop_seq
-EMOBON_EMT21_So_11,EMOBON_EMT21_So_220420_macro_1mm_1,,EMOBON00254,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_EMT21_So_12,EMOBON_EMT21_So_220420_macro_1mm_2,,EMOBON00255,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_EMT21_So_15,EMOBON_EMT21 _So_ 220420_macro_0.5mm_1,,EMOBON00256,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_EMT21_So_16,EMOBON_EMT21 _So_ 220420_macro_0.5mm_2,,EMOBON00257,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_BPNS_So_56,EMOBON_BPNS_So_220420_meio_1,DBM_AAAA,EMOBON00258,Quick-DNA Fecal/soil,,4911367,paired,18S rRNA,V1-V2,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,37.2,,1785.6,,,DBM_AAAAOSTA_1_HGVH5DRX3.UDI363-BID02,,,,,Prod_ILL_BqADN_LowCost_148_v5
-EMOBON_BPNS_So_56,EMOBON_BPNS_So_220420_meio_1,DBM_AAAS,EMOBON00258,Quick-DNA Fecal/soil,,4132410,paired,COI,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,37.2,,1785.6,,,DBM_AAASOSTA_1_HKYCCDRX3.UDI365-BID02,,,,,Prod_ILL_BqADN_LowCost_148_v5
-EMOBON_BPNS_So_57,EMOBON_BPNS_So_220420_meio_2,DBM_AAAP,EMOBON00259,Quick-DNA Fecal/soil,,6150915,paired,18S rRNA,V1-V2,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,14.7,,779.1,,,DBM_AAAPOSTA_1_HGVH5DRX3.UDI364-BID11,,,,,Prod_ILL_BqADN_LowCost_148_v5
-EMOBON_BPNS_So_57,EMOBON_BPNS_So_220420_meio_2,DBM_AABH,EMOBON00259,Quick-DNA Fecal/soil,,4313693,paired,COI,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,14.7,,779.1,,,DBM_AABHOSTA_1_HKYCCDRX3.UDI366-BID11,,,,,Prod_ILL_BqADN_LowCost_148_v5
-EMOBON_BPNS_So_67,EMOBON_BPNS_So_220601_meio_1,DBM_AABK,EMOBON00260,Quick-DNA Fecal/soil,,2730323,paired,18S rRNA,V1-V2,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,29.6,,1568.8,,,DBM_AABKOSTA_2_HLLHNDRX3.UDI207-BID01,,,,,Prod_ILL_BqADN_LowCost_148_v5
-EMOBON_BPNS_So_67,EMOBON_BPNS_So_220601_meio_1,DBM_AABI,EMOBON00260,Quick-DNA Fecal/soil,,5837595,paired,COI,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,29.6,,1568.8,,,DBM_AABIOSTA_1_HKYCCDRX3.UDI366-BID13,,,,,Prod_ILL_BqADN_LowCost_148_v5
-EMOBON_BPNS_So_68,EMOBON_BPNS_So_220601_meio_2,DBM_AAAR,EMOBON00261,Quick-DNA Fecal/soil,,3164035,paired,18S rRNA,V1-V2,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,11.35,,601.6,,,DBM_AAAROSTA_1_HGVH5DRX3.UDI364-BID15,,,,,Prod_ILL_BqADN_LowCost_148_v5
-EMOBON_BPNS_So_68,EMOBON_BPNS_So_220601_meio_2,DBM_AABJ,EMOBON00261,Quick-DNA Fecal/soil,,1611829,paired,COI,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,11.35,,601.6,,,DBM_AABJOSTA_1_HKYCCDRX3.UDI366-BID15,,,,,Prod_ILL_BqADN_LowCost_148_v5
-EMOBON_BPNS_Ha_1,EMO BON CPOWERA HA 20210623 20220622 SF40 (1),,EMOBON00262,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_BPNS_Ha_2,EMO BON CPOWERA HA 20210623 20220622 SF40 (2),,EMOBON00263,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_BPNS_Ha_3,EMO BON CPOWERA HA 20210623 20220622 SF40 (3),,EMOBON00264,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_BPNS_Ha_4,EMO BON CPOWERA HA 20210623 20220622 MF500 (1),,EMOBON00265,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_BPNS_Ha_5,EMO BON CPOWERA HA 20210623 20220622 MF500 (2),,EMOBON00266,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_BPNS_Ha_6,EMO BON CPOWERA HA 20210623 20220622 MF100 (1),,EMOBON00267,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
-EMOBON_BPNS_Ha_7,EMO BON CPOWERA HA 20210623 20220622 MF100 (2),,EMOBON00268,,,,paired,,,,,,,,basic Genoscope QC,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_EMT21_So_11,EMOBON_EMT21_So_220420_macro_1mm_1,,EMOBON00254,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_EMT21_So_12,EMOBON_EMT21_So_220420_macro_1mm_2,,EMOBON00255,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_EMT21_So_15,EMOBON_EMT21 _So_ 220420_macro_0.5mm_1,,EMOBON00256,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_EMT21_So_16,EMOBON_EMT21 _So_ 220420_macro_0.5mm_2,,EMOBON00257,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_BPNS_So_56,EMOBON_BPNS_So_220420_meio_1,DBM_AAAA,EMOBON00258,Quick-DNA Fecal/soil,,4911367,paired,18S rRNA,V1-V2,,,,,,software,Illumina NovaSeq 6000,37.2,,1785.6,,,DBM_AAAAOSTA_1_HGVH5DRX3.UDI363-BID02,,,,,Prod_ILL_BqADN_LowCost_148_v5
+EMOBON_BPNS_So_56,EMOBON_BPNS_So_220420_meio_1,DBM_AAAS,EMOBON00258,Quick-DNA Fecal/soil,,4132410,paired,COI,,,,,,,software,Illumina NovaSeq 6000,37.2,,1785.6,,,DBM_AAASOSTA_1_HKYCCDRX3.UDI365-BID02,,,,,Prod_ILL_BqADN_LowCost_148_v5
+EMOBON_BPNS_So_57,EMOBON_BPNS_So_220420_meio_2,DBM_AAAP,EMOBON00259,Quick-DNA Fecal/soil,,6150915,paired,18S rRNA,V1-V2,,,,,,software,Illumina NovaSeq 6000,14.7,,779.1,,,DBM_AAAPOSTA_1_HGVH5DRX3.UDI364-BID11,,,,,Prod_ILL_BqADN_LowCost_148_v5
+EMOBON_BPNS_So_57,EMOBON_BPNS_So_220420_meio_2,DBM_AABH,EMOBON00259,Quick-DNA Fecal/soil,,4313693,paired,COI,,,,,,,software,Illumina NovaSeq 6000,14.7,,779.1,,,DBM_AABHOSTA_1_HKYCCDRX3.UDI366-BID11,,,,,Prod_ILL_BqADN_LowCost_148_v5
+EMOBON_BPNS_So_67,EMOBON_BPNS_So_220601_meio_1,DBM_AABK,EMOBON00260,Quick-DNA Fecal/soil,,2730323,paired,18S rRNA,V1-V2,,,,,,software,Illumina NovaSeq 6000,29.6,,1568.8,,,DBM_AABKOSTA_2_HLLHNDRX3.UDI207-BID01,,,,,Prod_ILL_BqADN_LowCost_148_v5
+EMOBON_BPNS_So_67,EMOBON_BPNS_So_220601_meio_1,DBM_AABI,EMOBON00260,Quick-DNA Fecal/soil,,5837595,paired,COI,,,,,,,software,Illumina NovaSeq 6000,29.6,,1568.8,,,DBM_AABIOSTA_1_HKYCCDRX3.UDI366-BID13,,,,,Prod_ILL_BqADN_LowCost_148_v5
+EMOBON_BPNS_So_68,EMOBON_BPNS_So_220601_meio_2,DBM_AAAR,EMOBON00261,Quick-DNA Fecal/soil,,3164035,paired,18S rRNA,V1-V2,,,,,,software,Illumina NovaSeq 6000,11.35,,601.6,,,DBM_AAAROSTA_1_HGVH5DRX3.UDI364-BID15,,,,,Prod_ILL_BqADN_LowCost_148_v5
+EMOBON_BPNS_So_68,EMOBON_BPNS_So_220601_meio_2,DBM_AABJ,EMOBON00261,Quick-DNA Fecal/soil,,1611829,paired,COI,,,,,,,software,Illumina NovaSeq 6000,11.35,,601.6,,,DBM_AABJOSTA_1_HKYCCDRX3.UDI366-BID15,,,,,Prod_ILL_BqADN_LowCost_148_v5
+EMOBON_BPNS_Ha_1,EMO BON CPOWERA HA 20210623 20220622 SF40 (1),,EMOBON00262,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_BPNS_Ha_2,EMO BON CPOWERA HA 20210623 20220622 SF40 (2),,EMOBON00263,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_BPNS_Ha_3,EMO BON CPOWERA HA 20210623 20220622 SF40 (3),,EMOBON00264,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_BPNS_Ha_4,EMO BON CPOWERA HA 20210623 20220622 MF500 (1),,EMOBON00265,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_BPNS_Ha_5,EMO BON CPOWERA HA 20210623 20220622 MF500 (2),,EMOBON00266,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_BPNS_Ha_6,EMO BON CPOWERA HA 20210623 20220622 MF100 (1),,EMOBON00267,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
+EMOBON_BPNS_Ha_7,EMO BON CPOWERA HA 20210623 20220622 MF100 (2),,EMOBON00268,,,,paired,,,,,,,,software,Illumina NovaSeq 6000,,,,,,,,,,,
