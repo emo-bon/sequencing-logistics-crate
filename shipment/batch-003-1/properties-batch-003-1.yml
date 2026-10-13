@@ -1,5 +1,5 @@
-ready_for_processing: no
-production_deployment: false
+ready_for_processing: False
+production_deployment: False
 shipping_date: 20221115
 arrival_date: 20221116
 batch: batch_3.1
