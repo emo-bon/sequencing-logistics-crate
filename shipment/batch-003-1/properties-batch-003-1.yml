@@ -3,6 +3,7 @@ production_deployment: False
 shipping_date: 20221115
 arrival_date: 20221116
 batch: batch_3.1
+target_gene: metag # select if submition is for "metag" metagenomic samples or "metab" for metabarcoding samples (COI or 18 rRNA) 
 shipper: EMBRC
 receiver: Genoscope
 comment:
