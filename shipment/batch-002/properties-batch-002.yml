@@ -2,6 +2,7 @@ ready_for_processing: yes
 production_deployment: false
 shipping_date: 20220222
 arrival_date: 20220223
+batch: batch_2
 shipper: EMBRC
 receiver: Genoscope
 comment:
