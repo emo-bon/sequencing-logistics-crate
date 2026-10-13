@@ -1,4 +1,4 @@
-ready_for_processing: False #user is changing this and the ENA registration action runs in this batch folder 
+ready_for_processing: True #user is changing this and the ENA registration action runs in this batch folder 
 production_deployment: False #True for running; False for test running 
 shipping_date: 20211124
 arrival_date: 20211124
