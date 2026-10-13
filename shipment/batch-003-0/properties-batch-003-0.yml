@@ -1,8 +1,9 @@
-ready_for_processing: no
-production_deployment: false
+ready_for_processing: True
+production_deployment: False
 shipping_date: 20230601
 arrival_date: 20230601
 batch: batch_3
+target_gene: metag
 shipper: EMBRC
 receiver: Genoscope
 comment:
