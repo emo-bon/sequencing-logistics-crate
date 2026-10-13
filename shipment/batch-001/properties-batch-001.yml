@@ -1,5 +1,5 @@
-ready_for_processing: yes
-production_deployment: true
+ready_for_processing: True
+production_deployment: True
 shipping_date: 20211124
 arrival_date: 20211124
 batch: batch_1
