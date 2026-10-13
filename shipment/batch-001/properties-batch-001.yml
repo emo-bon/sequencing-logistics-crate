@@ -3,6 +3,7 @@ production_deployment: True #True for running; False for test running
 shipping_date: 20211124
 arrival_date: 20211124
 batch: batch_1
+target_gene: metag # select if submition is for "metag" metagenomic samples or "metab" for metabarcoding samples (COI or 18 rRNA) 
 shipper: EMBRC
 receiver: Genoscope
 comment:
