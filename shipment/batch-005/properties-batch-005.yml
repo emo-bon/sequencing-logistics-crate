@@ -1,0 +1,9 @@
+ready_for_processing: no
+production_deployment: false
+shipping_date: 20230601
+arrival_date: 20230601
+batch: batch_5
+shipper: EMBRC
+receiver: Genoscope
+comment:
+status: manual / test / processing / done
